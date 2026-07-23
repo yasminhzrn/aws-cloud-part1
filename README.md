@@ -1,4 +1,4 @@
-# AWS Portfolio
+# AWS Mini project
 
 This repository contains is my beginner hands-on AWS cloud projects as I learn to cloud fundamental.
 
